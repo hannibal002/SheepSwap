@@ -1,0 +1,5 @@
+main: at.lorenz.test.TestPlugin
+name: Test
+version: 1.0
+commands:
+  test:
